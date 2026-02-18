@@ -12,11 +12,11 @@ MIIIMEIconChanger · 미메아이콘체인저
 
 Auto File Generator creates or deletes a certain files (.gitkeep) in empty directories.  
 This is a preparation tool for uploading a directory to GitHub.  
-Set the behavior through AutoFileGenerator.ini.  
+Set the behavior through ini.  
 
 자동파일생성기는 빈 디렉토리에 일정한 파일(.gitkeep)을 생성하거나 삭제합니다.  
 깃허브에 디렉토리를 올리기 위한 준비 도구입니다.  
-AutoFileGenerator.ini 를 통해 동작을 설정합니다.  
+ini 를 통해 동작을 설정합니다.  
 
 ---
 
