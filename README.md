@@ -1,5 +1,5 @@
 # Auto File Generator (AFG™)
-자동파일생성기
+AutoFileGenerator · 자동파일생성기
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 [![Language](https://img.shields.io/badge/Language-AutoIt-orange?logo=autoit&style=flat-square)](https://www.autoitscript.com/site/)
