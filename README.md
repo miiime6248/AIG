@@ -1,5 +1,5 @@
 # Auto File Generator (AFG™)
-MIIIMEIconChanger · 미메아이콘체인저
+자동파일생성기
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 ![Arch](https://img.shields.io/badge/Architecture-x86-blue?style=flat-square)
